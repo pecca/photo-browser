@@ -1,6 +1,6 @@
 # Photo browser
 
-This is the *Photo browser* application.
+This is the *Photo browser* application .
 
 ## Set up
 
